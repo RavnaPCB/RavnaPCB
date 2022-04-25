@@ -10,7 +10,7 @@ Apart from books, these communities and their projects taught and helped me the 
 
 I am not yet a student or an engineer, nor do I pretend to be an expert. I started [this project](https://github.com/RavnaPCB/01.OSOH_SOM_MB) with the sole purpose to deepen my knowledge in electronics and learn PCB Design, so some mistakes, design flaws and thing I didn't think through are to be expected for now. I will be reporting every issue and potential problem I find in the repository's "Issues" tab.
 
-I hope that one day, when all the issues are sorted out, people could use the project as a reference design or put the manufactured boards to actual use.
+I hope that one day, when all the issues are sorted out, people could use the project as a reference design or put the boards to actual use.
 
 ## Future Plans and Goals
 
