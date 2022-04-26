@@ -16,8 +16,8 @@ I hope that one day, when all the issues are sorted out, people could use the pr
 
 > Get admitted to University :D
 
-> Develop a series of robust [OpenHardware] Systems On Module [SOM], Motherboards and Single Board Computers [SBC] capable of operating in the industrial temperature range, accompanied by detailed circuit explanations, spreadsheets, simulations and repair manuals.
+> Develop a series of robust [OpenHardware] Systems On Module [SOM], Motherboards and Single Board Computers [SBC] capable of operating in the industrial temperature range, accompanied by detailed circuit descriptions, spreadsheets, simulations and repair manuals.
 
-> Only [OpenSource] software will be used to demonstrate it's capabilities and show to people stil in doubt, that designing complex boards and project is possible without paying thousands for proprietary software.
+> Only [OpenSource] software will be used, to demonstrate it's capabilities and show to people stil in doubt, that designing complex boards and project is possible without paying thousands for proprietary software.
 
     All your feedback, cirticism, help and suggestions will be greatly appreciated.
