@@ -14,8 +14,6 @@ I hope that one day, when everything is sorted out, people could use the project
 
 ## Future Plans and Goals
 
-> Get admitted to University :D
-
 > Develop a series of robust [OpenHardware] Systems On Module [SOM], Motherboards and Single Board Computers [SBC] capable of operating in the industrial temperature range, accompanied by detailed circuit descriptions, spreadsheets, simulations and repair manuals.
 
 > Only [OpenSource] software will be used, to demonstrate it's capabilities and show to people stil in doubt, that designing complex boards and project is possible without paying thousands for proprietary software.
