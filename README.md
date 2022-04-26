@@ -1,6 +1,6 @@
 ## Introduction 
 
-I used to work as a mechanic / electrician until two years ago, having done so, I got a first hand experience of the problems caused by [Planned Obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and the absence of [Right To Repair Laws](https://www.ifixit.com/Right-to-Repair/Intro) [You may be surprised how often, even certified technicians and repair shops don't have access to spare parts, schematics, diagrams etc. from the manufacturer] so I quickly developed a disdain for such practices.
+I used to work as a mechanic / electrician until two years ago, having done so, I got a first hand experience of the problems caused by [Planned Obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and the absence of [Right To Repair Laws](https://www.ifixit.com/Right-to-Repair/Intro). You may be surprised how often manufacturers refuse to sell spare parts, schematics, diagrams etc. even to certified technicians and repair shops, so I quickly developed a disdain for such practices.
 
 I decided to take a deeper dive into electronics and pursue a degree in the field so I started preparing for University by studying at home. After some time I realised that I am mostly using **[Free]** **[Open Source]** or **[Open Hardware]** sources to study and practice, so I made an effort to get rid of all the paid and proprietary stuff altogether and start supporting the OS / OH projects and communities instead.
 
